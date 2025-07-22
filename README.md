@@ -1,6 +1,6 @@
 # Cats vs. Dogs Classifier using MobileNetV2
 
-This project implements a high-accuracy, lightweight image classification model that distinguishes between cats and dogs using transfer learning. Built with TensorFlow and MobileNetV2, the model achieves **97.9% validation accuracy** in under 1 hour on a MacBook M1.
+This project implements a high-accuracy, lightweight image classification model that distinguishes between cats and dogs using transfer learning. Built with TensorFlow and MobileNetV2, the model achieves **97.9% validation accuracy** in under 1 hour on a MacBook M2.
 
 ---
 
